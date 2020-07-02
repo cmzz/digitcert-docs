@@ -14,5 +14,8 @@ headless: true
 <br />
 
 - **API 文档**
-  - [代理体系]({{< relref "/docs/api-docs/about" >}})
-  - [合作模式]({{< relref "/docs/api-docs/channels" >}})
+  - [概述]({{< relref "/docs/api-docs/summary" >}})
+  - [签名介绍]({{< relref "/docs/api-docs/signature" >}})
+  - [API 使用指南]({{< relref "/docs/api-docs/signature" >}})
+  
+<br />
